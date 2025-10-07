@@ -1,12 +1,13 @@
 ## **Prazer, Gustavo Espindola Oselame**
 
-Atualmente estudando análise e desenvolvimento de sistemas no SENAC.
-Previamente realizei técnico integrado em eletrônica no IFSC.
+Sou Técnico em Eletrônica pelo IFSC e estudante de Análise e Desenvolvimento de Sistemas no SENAC. Atualmente curso o terceiro semestre da graduação, com conclusão prevista para meados de 2026.
 
-Tenho um ano e dois mêses de experiência como técnico estagiário no MagLab - laboratório de eletromagnetismo e compatibilidade eletromagnética da UFSC.
+Busco oportunidades que ampliem minha experiência profissional e contribuam para meu crescimento em conjunto com a empresa. Sou comprometido em adquirir novos conhecimentos, fortalecer práticas sólidas de desenvolvimento e construir rotinas de trabalho eficazes.
 
-Busco atuar na área de desenvolvimento web com ênfase no back-end, mas gostaria de saber uma quantidade satisfatória sobre todos ramos de programação afim de melhor abranger as necessidades de meus contratadores. Para isto, atualmente estudo JAVA e JAVA SPRING, em sucessão busco estudar JAVASCRIPT e REACTJS, também tenho noções básicas sobre SQL, HTML, CSS e Pyhon.
+Tenho experiência prática em desenvolvimento web com JavaScript, atuando tanto no frontend (ReactJS) quanto no backend (Node.js e Express). Também possuo projetos com Java e Spring, aplicando princípios de componentização, fácil manutenção e boas práticas como DRY e Clean Code.
 
-Aqui guardo meus estudos e projetos.
+Já trabalhei com diferentes bancos de dados (SQLite, MySQL e MongoDB) e explorei Docker e Docker Compose para implementação e integração desses ambientes.
 
-Muito obrigado pela atenção, e espero poder ajudar conforme solicitado.
+Tenho vivência em trabalho em equipe, tanto em contextos práticos e dinâmicos quanto por meio de ferramentas colaborativas como Git e sistemas de gestão da qualidade (SGQs).
+
+Busco me desenvolver como um profissional adaptável, prestativo e colaborativo, sempre evoluindo para contribuir de forma significativa nos projetos dos quais fizer parte.
